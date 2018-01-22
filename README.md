@@ -1,6 +1,6 @@
 >介绍`maven-jar-plugin`，`maven-assembly-plugin`和`maven-shade-plugin`的使用，和他们之间的区别。原文出自:[www.dubby.cn](www.dubby.cn)
 
-## maven-jar-plugin
+## 1.maven-jar-plugin
 
 首先，需要配置这个plugin:
 
@@ -132,7 +132,7 @@ Hello, this is a application packaged by maven-jar-plugin
 
 原文出自:[www.dubby.cn](www.dubby.cn)
 
-## maven-assembly-plugin
+## 2.maven-assembly-plugin
 
 先配置plugin:
 
@@ -185,7 +185,7 @@ Hello, this is a application packaged by maven-assembly-plugin
 2018-01-22T15:44:05.166
 ```
 
-## maven-shade-plugin
+## 3.maven-shade-plugin
 
 配置如下:
 
@@ -231,7 +231,7 @@ Hello, this is a application packaged by maven-shade-plugin
 2018-01-22T15:42:19.662
 ```
 
-## package比较
+## 4.package比较
 
 ```
 -rw-r--r--  1 teeyoung  staff   622K  1 22 15:43 maven-assembly-plugin-1.0-SNAPSHOT-jar-with-dependencies.jar
