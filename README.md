@@ -1,4 +1,4 @@
->介绍`maven-jar-plugin`，`maven-assembly-plugin`和`maven-shade-plugin`的使用，和他们之间的区别。原文出自:[www.dubby.cn](www.dubby.cn)
+>介绍`maven-jar-plugin`，`maven-assembly-plugin`和`maven-shade-plugin`的使用，和他们之间的区别。原文出自:[https://blog.dubby.cn/detail.html?id=9091](https://blog.dubby.cn/detail.html?id=9091)
 
 ## 1.maven-jar-plugin
 
@@ -130,7 +130,7 @@ Hello, this is a application packaged by maven-jar-plugin
 
 去target目录下也可以发现多了个lib目录。
 
-原文出自:[www.dubby.cn](www.dubby.cn)
+原文出自:[https://blog.dubby.cn/detail.html?id=9091](https://blog.dubby.cn/detail.html?id=9091)
 
 ## 2.maven-assembly-plugin
 
@@ -185,6 +185,8 @@ Hello, this is a application packaged by maven-assembly-plugin
 2018-01-22T15:44:05.166
 ```
 
+原文出自:[https://blog.dubby.cn/detail.html?id=9091](https://blog.dubby.cn/detail.html?id=9091)
+
 ## 3.maven-shade-plugin
 
 配置如下:
@@ -230,6 +232,8 @@ public static void main(String[] args) {
 Hello, this is a application packaged by maven-shade-plugin
 2018-01-22T15:42:19.662
 ```
+
+原文出自:[https://blog.dubby.cn/detail.html?id=9091](https://blog.dubby.cn/detail.html?id=9091)
 
 ## 4.package比较
 
