@@ -1,5 +1,6 @@
 package cn.dubby.maven.shade.plugin;
 
+import org.joda.time.DubbyTest;
 import org.joda.time.LocalDateTime;
 
 /**
@@ -12,6 +13,8 @@ public class Main {
 
         LocalDateTime localDateTime = new LocalDateTime();
         System.out.println(localDateTime);
+
+        System.out.println(new DubbyTest().toString());
     }
 
 }
