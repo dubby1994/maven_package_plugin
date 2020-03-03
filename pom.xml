@@ -12,6 +12,7 @@
         <module>maven-jar-plugin</module>
         <module>maven-assembly-plugin</module>
         <module>maven-shade-plugin</module>
+        <module>dependency-test</module>
     </modules>
 
 

@@ -40,3 +40,5 @@ thumbs.db
 
 .classpath
 .settings/
+
+dependency-reduced-pom.xml
